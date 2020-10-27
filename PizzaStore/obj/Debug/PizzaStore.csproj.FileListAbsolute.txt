@@ -1,0 +1,6 @@
+C:\Users\quoctrung163\Desktop\PizzaStore\PizzaStore\bin\Debug\PizzaStore.exe.config
+C:\Users\quoctrung163\Desktop\PizzaStore\PizzaStore\bin\Debug\PizzaStore.exe
+C:\Users\quoctrung163\Desktop\PizzaStore\PizzaStore\bin\Debug\PizzaStore.pdb
+C:\Users\quoctrung163\Desktop\PizzaStore\PizzaStore\obj\Debug\PizzaStore.csprojResolveAssemblyReference.cache
+C:\Users\quoctrung163\Desktop\PizzaStore\PizzaStore\obj\Debug\PizzaStore.exe
+C:\Users\quoctrung163\Desktop\PizzaStore\PizzaStore\obj\Debug\PizzaStore.pdb
