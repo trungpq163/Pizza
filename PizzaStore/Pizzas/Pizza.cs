@@ -39,7 +39,7 @@ namespace PizzaStore
         }
 
         // dong hop
-        public virtual void Box()
+        public void Box()
         {
             Console.WriteLine("Dong hop " + name);
         }

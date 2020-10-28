@@ -43,17 +43,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pizza\CheesePizza.cs" />
-    <Compile Include="Pizza\GreekPizza.cs" />
-    <Compile Include="Pizza\PepperoniPizza.cs" />
-    <Compile Include="Pizza\Pizza.cs" />
-    <Compile Include="Factory\PizzaStore.cs" />
+    <Compile Include="Pizzas\DalatPizzas\DalatCheesePizza.cs" />
+    <Compile Include="Pizzas\DalatPizzas\DalatGreekPizza.cs" />
+    <Compile Include="Pizzas\DalatPizzas\DalatPepperoniPizza.cs" />
+    <Compile Include="Pizzas\DaNangPizzas\DNCheesePizza.cs" />
+    <Compile Include="Pizzas\DaNangPizzas\DNGreekPizza.cs" />
+    <Compile Include="Pizzas\DaNangPizzas\DNPepperoniPizza.cs" />
+    <Compile Include="Pizzas\HCMPizzas\HCMCheesePizza.cs" />
+    <Compile Include="Pizzas\HCMPizzas\HCMGreekPizza.cs" />
+    <Compile Include="Pizzas\HCMPizzas\HCMPepperoniPizza.cs" />
+    <Compile Include="Pizzas\Pizza.cs" />
+    <Compile Include="Stores\DalatPizzaStore.cs" />
+    <Compile Include="Stores\DanangPizzaStore.cs" />
+    <Compile Include="Stores\HCMPizzaStore.cs" />
+    <Compile Include="Stores\PizzaStore.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
